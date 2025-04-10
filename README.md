@@ -2,8 +2,6 @@
 
 Made Legal Chatbot Advisor with [Langchain](https://python.langchain.com/docs/get_started/introduction), [Pinecone](https://www.pinecone.io/), [MistralAI](https://mistral.ai/), [Huggingface Space](https://huggingface.co/spaces/gabruarya/legal-advisor) and [Streamlit](https://docs.streamlit.io/) 
 
-# Legal Chatbot Advisor
-
 Welcome to the Legal Chatbot Advisor project! This chatbot is designed to provide legal advice based on user queries related to the Indian legal system.
 
 ## Features
